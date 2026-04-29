@@ -1,0 +1,24 @@
+{
+    "expansion": false,
+    "google_play_key": null,
+    "google_play_salt": null,
+    "heap_size": "3",
+    "icon_name": "ADiPL: Prologue PREVIEW",
+    "include_pil": false,
+    "include_sqlite": false,
+    "layout": null,
+    "name": "A Day in Parker's Life: Prologue PREVIEW",
+    "numeric_version": 1,
+    "orientation": "sensorLandscape",
+    "package": "com.ododevs.adipl.prologue",
+    "permissions": [
+        "VIBRATE",
+        "INTERNET"
+    ],
+    "source": false,
+    "store": "none",
+    "update_always": true,
+    "update_icons": true,
+    "update_keystores": true,
+    "version": "1.0"
+}
